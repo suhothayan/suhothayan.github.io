@@ -1,6 +1,6 @@
 ---
 redirect_from:
-  - www/
-  - www
+  - /www/
+  - /www
 redirect_to: https://suhothayan.github.io/www/en/v5%2E0/
 ---
